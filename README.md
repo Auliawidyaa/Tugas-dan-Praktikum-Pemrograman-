@@ -1,4 +1,4 @@
-#Praktikum dan Tugas Program Widya 
+* Praktikum dan Tugas Program Widya 
 <div> NAMA : Widya Putri Auliya Amin </div>
 <div> NIM : 231031048 </div>
 <div> Prodi : Sistem Informasi </div>
