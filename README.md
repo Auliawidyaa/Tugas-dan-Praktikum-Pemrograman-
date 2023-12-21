@@ -1,5 +1,4 @@
 #Praktikum dan Tugas Program Widya 
-
 <div> NAMA : Widya Putri Auliya Amin </div>
 <div> NIM : 231031048 </div>
 <div> Prodi : Sistem Informasi </div>
@@ -20,8 +19,7 @@
 * Program Bagi`231031048-WIDYA PUTRI-tugas1-10-b.py`
 * Program jumlah dan selisih waktu`231031048-WIDYA PUTRI-tugas2-10-b.py`
 * Program Bil Fibonacci`231031048-WIDYA PUTRI-praktikum-b11.py`
-
-
-* 
+* Rangkuman TEXT file`Tugas rangkuman-12-1.pdf`
+* Flowchart sederhana`Tugas Flowchart-12-2.pdf`
 
 
