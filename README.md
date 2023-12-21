@@ -1,7 +1,9 @@
-* Praktikum dan Tugas Program Widya 
+# Praktikum dan Tugas Program Widya 
+
 <div> NAMA : Widya Putri Auliya Amin </div>
 <div> NIM : 231031048 </div>
 <div> Prodi : Sistem Informasi </div>
+
 * Tipe Data dan Operasi Sederhana`praktikum-b1.py`
 * Operator Perhitungan dan Operator Logika`prakrikum-b2.py`
 * Operator Logika dan Biner`praktikum-b3.py`
